@@ -1,0 +1,19 @@
+
+search-screen {
+    background: rgb(193, 219, 217);
+
+}
+
+.center-screen{
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+min-height: 100px;
+}
+
+
+@media screen and (min-width: 769px) {
+
+
+}
